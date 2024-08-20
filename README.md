@@ -17,8 +17,10 @@ Alumno: Paez Tiziano Adrian.
 ## Resumen del repositorio actual TP#4.
 _Objetivos
 • Afianzar fundamentos de programación en C/C++
+
 • Afianzar fundamentos de herramientas de desarrollo (
 simuladores, ide)
+
 • Afianzar fundamentos de sensores y actuadores básicos.
 ##
 # Perfil del alumno
