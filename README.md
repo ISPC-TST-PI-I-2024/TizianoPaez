@@ -9,16 +9,17 @@ Alumno: Paez Tiziano Adrian.
 
  ## TP#1.Introduccion IoT
  ## TP#2.Fundamentos de Programación IoT y Módulos de Desarrollo Objetivos
+ ## TP#3.Transductores binarios
+ ## TP#4
+ 
 
 
-## Resumen del repositorio actual TP#2.
-_Entender y aplicar los fundamentos de la programación en Arduino y MicroPython en el contexto de IoT, enfocándose en el manejo de entradas y salidas digitales y analógicas.
-
-_Desarrollar habilidades prácticas en el uso de módulos de desarrollo y shields para ESP32, explorando diversas aplicaciones de los módulos en proyectos IoT.
-
-_Implementar controladores básicos utilizando ESP32, que gestionen efectivamente entradas y salidas tanto digitales como analógicas.
-
-_Familiarizarse con las herramientas de desarrollo como PlatformIO y RT-Thread en Visual Studio Code y utilizar la simulación en Wokwi para validar los programas desarrollados.
+## Resumen del repositorio actual TP#4.
+_Objetivos
+• Afianzar fundamentos de programación en C/C++
+• Afianzar fundamentos de herramientas de desarrollo (
+simuladores, ide)
+• Afianzar fundamentos de sensores y actuadores básicos.
 ##
 # Perfil del alumno
  ![alt text](fotocv-1.png)
